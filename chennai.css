@@ -1,0 +1,43 @@
+.chennaibg{
+    background-repeat: no-repeat;
+    background-image: url('./assets/abcd.jpg');
+    height: 100vh;
+    overflow: hidden;
+    background-size: cover;
+  }
+  #btn1{
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    left: 10%;
+    top: 10%;
+    background-color:gray;
+  }
+  button{
+    font-size: 25px;
+  }
+  #btn2{
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    left: 85%;
+    top: 10%;
+    background-color:gray;
+  }
+  #btn3{
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    left: 10%;
+    top: 90%;
+    background-color:grey;
+  }
+  #btn4{
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    left: 85%;
+    top: 90%;
+    background-color:gray;
+
+  }
